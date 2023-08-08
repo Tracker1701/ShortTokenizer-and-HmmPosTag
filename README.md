@@ -1,0 +1,2 @@
+# ShortTokenizer-and-HmmPosTag
+对于人民日报语料库的最大概率模型分词与使用隐马尔可夫模型进行词性标注
